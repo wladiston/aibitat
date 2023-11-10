@@ -1,5 +1,13 @@
 # AIbitat
 
+## 0.0.4
+
+### Patch Changes
+
+- 2f3970b: Move types around. Most types are going to be inside namespaces now
+- 605d4e8: Trim anthropic response and add a bigger context window for the chat
+- 1ff16a4: AIbitat prep to accept generic types
+
 ## 0.0.3
 
 ### Patch Changes
